@@ -16,7 +16,7 @@ Hi All, I'm Tushar Saxena,Data Analyst with expertise in data cleansing, creatin
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/tusharkumarsaxena/data_portfolio#readme).
+Explore my portfolio, a space dedicated to showcasing my [projects](https://github.com/tusharkumarsaxena/data_portfolio#readme).
 
 
 ## 🛠️ Tools
