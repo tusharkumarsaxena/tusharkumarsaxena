@@ -13,7 +13,7 @@ Hi All, I'm Tushar, Data Analyst with expertise in data cleansing, exploraroty d
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/tusharkumarsaxena/data_portfolio/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/tusharkumarsaxena/data_portfolio#readme).
 
 ### 🛠️ Tools
 
