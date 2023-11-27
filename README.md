@@ -1,4 +1,4 @@
-## About myself
+## ![image](https://github.com/tusharkumarsaxena/tusharkumarsaxena/assets/7361426/5f806898-22a6-4f12-af31-e25591a5d184)  About myself
 
 This is my [LinkedIn](https://www.linkedin.com/in/tushar-saxena-5b189b12/).
 
