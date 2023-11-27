@@ -9,7 +9,7 @@ Hi All, I'm Tushar, Data Analyst with expertise in data cleansing, exploraroty d
 - Creating a common project framework to achieve objective.
 - Interrogating data using SQL or Python.
 - Develop dashboards as per agreed woreframe and perform ad-hoc data analysis (SQL/Python).
-- Drill-down for specidic business questions or scenarios.
+- Drill-down for specific business questions or scenarios.
 
 ## 📚 Projects
 
